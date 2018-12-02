@@ -13,7 +13,7 @@ var Abc = React.createClass({
  componentDidMount(){
  var _this = this;
     axios({
-          url: `http://localhost:3000/getallworkspaceData`,
+          url: `http://stormy-meadow-14917.herokuapp.com/getallworkspaceData`,
           method: 'get',
           headers: {
               'Content-Type': 'application/json'
