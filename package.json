@@ -1,7 +1,7 @@
 {
   "name": "react_task",
   "version": "1.0.0",
-  "description": "react hotel task",
+  "description": "react workspace task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
